@@ -1,0 +1,7 @@
+{
+  "name": "routingappe2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
